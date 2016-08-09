@@ -1,0 +1,4 @@
+1.Enter zero
+2.enter negative value
+3.Enter the value betweeen 1 and 3000
+4.enter value greater than 3000
